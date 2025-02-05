@@ -207,6 +207,9 @@ p.note { display: none; }
     
 <h2><span class="yellow">先ほどの休憩小屋は田んぼの端</span></h2>
 <a href="20250204_038.JPG" target="_blank"><img src="20250204_038.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この場所はGooglaMapsも入ってません、この道の先でした</span></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1738719055996!6m8!1m7!1sGDn9r3n5W4NGmYOyGN5aoQ!2m2!1d20.20209354847877!2d99.91400539373419!3f8.850246101717321!4f-20.37399078559511!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
     
 <h2><span class="yellow">女性陣を市場に送って、ちびちゃんを幼稚園にお迎え</span></h2>
 <a href="20250204_039.JPG" target="_blank"><img src="20250204_039.JPG" alt="サンプル画像" width="900" /></a>

@@ -239,7 +239,7 @@ p.note { display: none; }
 <a href="20250204_050.JPG" target="_blank"><img src="20250204_050.JPG" alt="サンプル画像" width="900" /></a>
 
     
-<h2><span class="yellow">最後になりましたが、夜明け前の北の空で北極星見つけます</span></h2>
+<h2><span class="yellow">最後になりましたが、夜明け前の北の空で北極星見つけます 朝4:36</span></h2>
 <a href="20250204_001.JPG" target="_blank"><img src="20250204_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_002.JPG" target="_blank"><img src="20250204_002.JPG" alt="サンプル画像" width="900" /></a>
 

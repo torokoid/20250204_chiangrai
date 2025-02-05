@@ -137,7 +137,7 @@ p.note { display: none; }
 <h2><span class="yellow">鉢のハスも元気に満開です</span></h2>
 <a href="20250204_005.JPG" target="_blank"><img src="20250204_005.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">選挙が終わって甥っ子が下宿先に帰るので、お母さんのお店で送り出しました</span></h2>
+<h2><span class="yellow">選挙が終わって甥っ子(19歳)が下宿先に帰るので、お母さんのお店で送り出しました</span></h2>
 <a href="20250204_006.JPG" target="_blank"><img src="20250204_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_007.JPG" target="_blank"><img src="20250204_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_008.JPG" target="_blank"><img src="20250204_008.JPG" alt="サンプル画像" width="900" /></a>

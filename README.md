@@ -172,7 +172,7 @@ p.note { display: none; }
 <a href="20250204_021.JPG" target="_blank"><img src="20250204_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_022.JPG" target="_blank"><img src="20250204_022.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">土地の一角に苗木が植ってました。記念樹かも。</span></h2>
+<h2><span class="yellow">土地の中央にコンクリートの柱で保護された苗木。記念樹かも。</span></h2>
 <a href="20250204_023.JPG" target="_blank"><img src="20250204_023.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">造成作業の前で記念撮影。作業者含めて、みな親戚です。</span></h2>

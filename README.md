@@ -185,12 +185,12 @@ p.note { display: none; }
 <h2><span class="yellow">隣家も含めて色使いが熱帯ならではの派手さ</span></h2>
 <a href="20250204_026.JPG" target="_blank"><img src="20250204_026.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">集落から外れたところにある、農地として活用の土地も見に行きました</span></h2>
+<h2><span class="yellow">集落から外れたところにある、農地として活用中の土地も見に行きました</span></h2>
 <a href="20250204_028.JPG" target="_blank"><img src="20250204_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_029.JPG" target="_blank"><img src="20250204_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_030.JPG" target="_blank"><img src="20250204_030.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">農作業時の休憩小屋</span></h2>
+<h2><span class="yellow">農作業時の休憩小屋、電気が来ています</span></h2>
 <a href="20250204_031.JPG" target="_blank"><img src="20250204_031.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">見える範囲の農地は同じ親戚の持ち物</span></h2>
@@ -205,7 +205,7 @@ p.note { display: none; }
 <h2><span class="yellow">焼畑して田植えの準備か？</span></h2>
 <a href="20250204_037.JPG" target="_blank"><img src="20250204_037.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">先ほどの休憩小屋は田んぼの端、電気が来ていました</span></h2>
+<h2><span class="yellow">先ほどの休憩小屋は田んぼの端</span></h2>
 <a href="20250204_038.JPG" target="_blank"><img src="20250204_038.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">女性陣を市場に送って、ちびちゃんを幼稚園にお迎え</span></h2>

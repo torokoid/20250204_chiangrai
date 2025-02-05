@@ -154,8 +154,9 @@ p.note { display: none; }
 <h2><span class="yellow">いつもお昼をいただく親戚もHondaのバイクでピース、71歳！</span></h2>
 <a href="20250204_012.JPG" target="_blank"><img src="20250204_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250204_013.JPG" target="_blank"><img src="20250204_013.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20250204_014.JPG" target="_blank"><img src="20250204_014.JPG" alt="サンプル画像" width="900" /></a>
-    
+-->
 <h2><span class="yellow">義妹がタイヤ落としそうになった隙間だらけの渡り板は早速修復中</span></h2>
 <a href="20250204_015.JPG" target="_blank"><img src="20250204_015.JPG" alt="サンプル画像" width="900" /></a>
     
@@ -208,7 +209,7 @@ p.note { display: none; }
 <h2><span class="yellow">先ほどの休憩小屋は田んぼの端</span></h2>
 <a href="20250204_038.JPG" target="_blank"><img src="20250204_038.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">この場所はGooglaMapsも入ってません、この道の先でした</span></h2>
+<h2><span class="yellow">この場所はGooglaMapsのストリートビューも入ってません、この道の先でした</span></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1738719055996!6m8!1m7!1sGDn9r3n5W4NGmYOyGN5aoQ!2m2!1d20.20209354847877!2d99.91400539373419!3f8.850246101717321!4f-20.37399078559511!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
     
 <h2><span class="yellow">女性陣を市場に送って、ちびちゃんを幼稚園にお迎え</span></h2>
